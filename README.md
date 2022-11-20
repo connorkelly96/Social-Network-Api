@@ -4,7 +4,7 @@ An API for a social network application whee users can connect with eachother.
 
 ### Github : https://github.com/connorkelly96/Social-Network-Api
 
-### Walkthrough Video :
+### Walkthrough Video : https://drive.google.com/file/d/10zTwzEDP3y9QNy7YMJ6Akdic5LPZ4yUZ/view
 
 
 ### Description
